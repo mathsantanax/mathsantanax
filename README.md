@@ -31,7 +31,7 @@ Estou animado para fazer parte da comunidade e colaborar em projetos interessant
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mathsantanax&show_icons=true&theme=dark&Locale=pt-br" />
 </picture>
 <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="top" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsantanax&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&Locale=pt-br" />
+      <img height=200 align="top" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsantanax&layout=compact&theme=darkr&bg_color=0d1117&hide_border=true&locale=pt-br" />
 </a>
 
 ### Skills
