@@ -26,8 +26,8 @@ Estou animado para fazer parte da comunidade e colaborar em projetos interessant
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=mathsantanax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mathsantanax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&locale=pt-br" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&locale=pt-br" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 <a href="https://github.com/anuraghazra/convoychat">
