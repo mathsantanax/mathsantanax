@@ -5,16 +5,6 @@
 📘 **Estudante:**
    - Cursando **Análise e Desenvolvimento de Sistema** na **Estácio**.
 
-💻 **Habilidades:**
-   - Conhecimento prévio em CSharp, Python, HTML, CSS e JavaScript.
-   - Trabalhando em projetos pessoais para aprimorar minhas habilidades.
-
-🚀 **Objetivos:**
-   - Contribuir para projetos open source.
-   - Aprender e aplicar conceitos inovadores em desenvolvimento de software.
-
-Estou animado para fazer parte da comunidade e colaborar em projetos interessantes, enquanto aplico o conhecimento adquirido na minha jornada acadêmica na Estácio.
-
 🌐 **Conecte-se:**
 <div> 
   <a href="https://instagram.com/theussantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
