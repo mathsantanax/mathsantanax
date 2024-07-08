@@ -25,7 +25,10 @@
 </a>
 
 <a href="https://github.com/mathsantanax/Api-QrCode-Generator">
-     <img src="https://qrcodegerador.azurewebsites.net/QrCodeGenerator/Gerar/%7Btexto%7D?texto=https://www.linkedin.com/in/matheus-santana-b4b3612b3/"/>
+   <picture>
+     <img src="https://qrcodegerador.azurewebsites.net/QrCodeGenerator/Gerar/%7Btexto%7D?texto=https://www.linkedin.com/in/matheus-santana-b4b3612b3/"
+        />
+   </picture>
 </a>
 
 
