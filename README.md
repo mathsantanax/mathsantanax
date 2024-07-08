@@ -8,8 +8,11 @@
 🌐 **Conecte-se:**
 <div> 
   <a href="https://instagram.com/theussantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/mathsantanax/Api-QrCode-Generator"><img src="https://qrcodegerador.azurewebsites.net/QrCodeGenerator/GerarComPNG/%7Btexto%7D&%7Btamanho%7D?texto=https://instagram.com/theussantana&tamanho=3"/></a>
+  <a href="https://www.linkedin.com/in/matheus-santana-8602811a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/mathsantanax/Api-QrCode-Generator"><img src="https://qrcodegerador.azurewebsites.net/QrCodeGenerator/GerarComPNG/%7Btexto%7D&%7Btamanho%7D?texto=https://www.linkedin.com/in/matheus-santana-8602811a0&tamanho=3"/></a>
   <a href = "mailto:matheus.santana7@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-santana-8602811a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
 </div>
 
 ##
@@ -23,11 +26,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="top" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsantanax&layout=compact&theme=darkr&title_color=e6e6e6&bg_color=0d1117&hide_border=true&locale=pt-br" />
 </a>
-
-<a href="https://github.com/mathsantanax/Api-QrCode-Generator">
-     <img src="https://qrcodegerador.azurewebsites.net/QrCodeGenerator/GerarComPNG/%7Btexto%7D&%7Btamanho%7D?texto=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatheus-santana-b4b3612b3%2F&tamanho=5"/>
-</a>
-
 
 
 ### Skills
