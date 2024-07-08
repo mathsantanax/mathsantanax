@@ -24,6 +24,12 @@
       <img height=200 align="top" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsantanax&layout=compact&theme=darkr&title_color=e6e6e6&bg_color=0d1117&hide_border=true&locale=pt-br" />
 </a>
 
+<a href="https://github.com/mathsantanax/Api-QrCode-Generator">
+   <img height=150 align="center" width="150" src"https://qrcodegerador.azurewebsites.net/QrCodeGenerator/Gerar/%7Btexto%7D?texto=https://www.linkedin.com/in/matheus-santana-b4b3612b3/"/>
+</a>
+
+
+
 ### Skills
 <div style="display: inline_block"><br>
    <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
