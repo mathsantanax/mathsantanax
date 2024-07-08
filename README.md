@@ -8,9 +8,7 @@
 🌐 **Conecte-se:**
 <div> 
   <a href="https://instagram.com/theussantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/mathsantanax/Api-QrCode-Generator"><img src="https://qrcodegerador.azurewebsites.net/QrCodeGenerator/GerarComPNG/%7Btexto%7D&%7Btamanho%7D?texto=https://instagram.com/theussantana&tamanho=3"/></a>
   <a href="https://www.linkedin.com/in/matheus-santana-8602811a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/mathsantanax/Api-QrCode-Generator"><img src="https://qrcodegerador.azurewebsites.net/QrCodeGenerator/GerarComPNG/%7Btexto%7D&%7Btamanho%7D?texto=https://www.linkedin.com/in/matheus-santana-8602811a0&tamanho=3"/></a>
   <a href = "mailto:matheus.santana7@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
 </div>
