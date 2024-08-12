@@ -16,7 +16,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=mathsantanax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&locale=pt-br" media="(prefers-color-scheme: no-preference)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mathsantanax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&locale=pt-br"/>
   <source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mathsantanax&show_icons=true&theme=dark&Locale=pt-br" />
 </picture>
