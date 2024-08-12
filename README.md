@@ -1,6 +1,9 @@
-### Hi there 👋
+### Olá, Bem-Vindo Curioso 👋
 
-👋 Olá, sou Matheus Santana, um entusiasta da programação em busca de aprender e crescer no mundo do desenvolvimento de software. Atualmente estudando Python e empolgado para colaborar em projetos interessantes.
+👋 Me chamo Matheus Santana, um entusiasta da programação em busca de aprender e crescer no mundo do desenvolvimento de software.
+😎 Atualmente focado nos estudos e em projetos pessoais, e em busca da minha primeira oportunidade na área de TI !!
+
+Fique a vontade para xeretar meus repositórios.
 
 📘 **Estudante:**
    - Cursando **Análise e Desenvolvimento de Sistema** na **Estácio**.
