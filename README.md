@@ -2,13 +2,6 @@
 
 👋 Me chamo Matheus Santana, um entusiasta da programação em busca de aprender e crescer no mundo do desenvolvimento de software.
 
-😎 Atualmente focado nos estudos e em projetos pessoais, e em busca da minha primeira oportunidade na área de TI !!
-
-Fique a vontade para xeretar meus repositórios.
-
-📘 **Estudante:**
-   - Cursando **Análise e Desenvolvimento de Sistema** na **Estácio**.
-
 ### Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
