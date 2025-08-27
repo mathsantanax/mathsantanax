@@ -1,6 +1,6 @@
 ### Olá, Bem-Vindo 👋
 
-👋 Me chamo Matheus Santana, Tenho 29 anos, Sou formado em Análise e Desenvolvimento de Sistema, Dev Full-Stack com foco em Back-end apaixonado por tecnologia e Estudar programação.
+👋 Me chamo Matheus Santana, Tenho 29 anos, Sou formado em <b>Análise e Desenvolvimento de Sistema<b>, <b>Dev Full-Stack<b> com foco em Back-end apaixonado por tecnologia e Estudar programação.
 
 ### Skills
 
@@ -18,7 +18,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![MATERIALUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
-![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-030712?style=for-the-badge&logo=TAILWINDCSS))
+![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-030712?style=for-the-badge&logo=TAILWINDCSS)
 
 ![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=mathsantanax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&locale=pt-br)
 ![GitHub-Stats-Top-Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsantanax&layout=compact&theme=darkr&title_color=e6e6e6&bg_color=0d1117&hide_border=true&locale=pt-br)
@@ -26,5 +26,5 @@
 🌐 **Conecte-se:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santana-8602811a0)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheus.santana7@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5513981639944)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:math.santana07@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:matheus.santana7@hotmail.com)
