@@ -1,13 +1,11 @@
 <div align="center">
   
 ![](https://capsule-render.vercel.app/api?type=pulse&height=300&color=auto&section=header&reversal=true&text=Matheus+Santana&textBg=false&fontColor=ffff&fontSize=70&fontAlign=50&fontAlignY=36&animation=fadeIn&rotate=0&descSize=20&descAlign=50&descAlignY=70)
-  <div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=11EEF7&width=435&lines=💻+Full+Stack+Developer)](https://git.io/typing-svg)
-  </div>
 </div>
 
 <div align="center">
+    
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=11EEF7&width=435&lines=💻+Full+Stack+Developer)](https://git.io/typing-svg)
   
 ### Formado em Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, desenvolvimento de software e pela criação de soluções que realmente resolvem problemas.
 Atualmente, trabalho principalmente com .NET, C#, React e TypeScript, explorando também arquiteturas modernas, bancos de dados e desenvolvimento de aplicações web.
