@@ -1,27 +1,41 @@
-### Olá, Bem-Vindo 👋
+# Olá! Eu sou Matheus Santana 👋
 
-👋 Me chamo Matheus Santana, Tenho 29 anos, Sou formado em <b>Análise e Desenvolvimento de Sistema<b>, <b>Dev Full-Stack<b> com foco em Back-end apaixonado por tecnologia e Estudar programação.
+![](https://capsule-render.vercel.app/api?type=pulse&height=300&color=auto&section=header&reversal=true&text=Matheus+Santana&textBg=false&fontColor=ffff&fontSize=70&fontAlign=50&fontAlignY=36&animation=fadeIn&rotate=0&descSize=20&descAlign=50&descAlignY=70)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=11EEF7&width=435&lines=💻+Full+Stack+Developer)](https://git.io/typing-svg)
 
-### Skills
+### Formado em Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, desenvolvimento de software e pela criação de soluções que realmente resolvem problemas.
+Atualmente, trabalho principalmente com .NET, C#, React e TypeScript, explorando também arquiteturas modernas, bancos de dados e desenvolvimento de aplicações web.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML-f2652b?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-214ce5?style=for-the-badge&logo=css&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/Javascript-fff200?style=for-the-badge&logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/GIT-433408?style=for-the-badge&logo=git)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
-![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
-![Vscode](https://img.shields.io/badge/-vs_code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
-![MATERIALUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
-![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-030712?style=for-the-badge&logo=TAILWINDCSS)
+## 🚀 Sobre mim
+* 💻 Desenvolvedor Full Stack
+* ⚙️ Experiência com C# / .NET
+* ⚛️ Desenvolvimento de interfaces com React
+* 🗄️ Trabalho com bancos relacionais e soluções como Supabase e SqlServer
+* 🧩 Interesse em arquitetura de software, APIs e DDD
+* 🐳 Experiência com Docker e ambientes self-hosted
+* 🛠️ Sempre estudando e criando novos projetos para colocar ideias em prática
 
-![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=mathsantanax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&locale=pt-br)
-![GitHub-Stats-Top-Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsantanax&layout=compact&theme=darkr&title_color=e6e6e6&bg_color=0d1117&hide_border=true&locale=pt-br)
+Gosto de entender o problema antes de pensar na solução e de construir aplicações que sejam simples de manter, escaláveis e agradáveis de usar.
+
+## 🧰 Tecnologias
+
+<div> 
+  <div style="display: flex;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="44" style="width: 44px; height: 44px; margin-right: 5px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" style="width: 44px; height: 44px; margin-right: 5px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="44" style="width: 44px; height: 44px; margin-right: 5px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="44" style="width: 44px; height: 44px; margin-right: 5px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" style="width: 44px; height: 44px; margin-right: 5px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="44" style="width: 44px; height: 44px; margin-right: 5px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="44" style="width: 44px; height: 44px; margin-right: 5px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="44" style="width: 44px; height: 44px; margin-right: 5px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="44" style="width: 44px; height: 44px; margin-right: 0px; margin-bottom: 0px;" /></div>
+</div>
+
+<div align="align-center" grid=2>
+  <div align="right">
+    
+[![mathsantanax GitHub stats](https://github-readme-stats.shion.dev/api/top-langs/?username=mathsantanax&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+  </div>
+
+  <div align="left">
+    
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mathsantanax?cardType=octocat&theme=dark&fontFamily=Source%20Code%20Pro&preferLogin=false&Border=DD272700)](https://git.io/awesome-stats-card)
+  </div>
+</div>
+
+
 
 🌐 **Conecte-se:**
 
@@ -29,3 +43,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:math.santana07@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:matheus.santana7@hotmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/haeXvUgw)
+
+# Obrigado pela visita! 🚀
